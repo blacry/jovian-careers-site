@@ -1,3 +1,5 @@
+/* 
+
 html {
   font-size: 16px;
 }
@@ -41,17 +43,14 @@ a:hover, a:focus {
 
 #banner {
   object-fit: cover;
+  width: 100%; 
 }
 
 
 h1 {
     text-align: center;
 }
-
-#banner {
-   width: 100%; 
-}
-
+    
 #about {
   display: flex;
   max-width: 800px;
@@ -177,4 +176,4 @@ h3 {
   color: #71717A;
   font-size: 0.875rem;
 }
-
+ */
